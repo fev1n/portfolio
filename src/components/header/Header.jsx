@@ -100,7 +100,7 @@ const Header = () => {
                 <i className="uil uil-message nav__icon"></i> Contact
               </a>
             </li>
-            <li className="nav__item">
+            {/* <li className="nav__item">
               <a
                 href="#news"
                 onClick={() => setActiveNav("#news")}
@@ -110,7 +110,7 @@ const Header = () => {
               >
                 <i className="uil uil-message nav__icon"></i> News
               </a>
-            </li>
+            </li> */}
           </ul>
 
           <i
